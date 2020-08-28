@@ -94,6 +94,14 @@ Secondly, the properties to become a strategist and an administrator is quite di
 
 Last but not least, I will write about the differences and similarities of our career plan. Jinho and I plan to work for different small companies to gain experiences then after a small timespan, we will proceed to get a place in our chosen companies. But Jinho plans to work in responding to customers and developing apps which do not supply the useful skills and knowledge to support him on the way to become a strategist. Different from the route that Jinho chose, I will start on getting a MBA degree related to Database Administration whilst working to support myself.  
 
+Industry Data
+
+The ideal position our team wants is the level of executives who have a position that can influence the company and who can give opinions on deciding the future direction of the company. The lowest position in company executives is the team leader. The team leader is literally the one who leads a team. It is also a highly paid position. Therefore, the demand that employers want a team leader is at a very low level.
+Java is ranked first. JavaScript is ranked second. Employers would naturally want someone who can handle tools that are the basis of minimal IT. As IT became more and more popular, the level of our society became enough to study IT by using IT data alone on the Internet without having to go to IT-related universities. Therefore, I think it is natural for employers to require the ability to handle IT tools at that level.
+Communication skills is ranked first. A company is a group. IT works with a computer, but communication between people and people is always necessary. Communication skills are needed when presenting your opinion or when you have a meeting with team members on a topic. Because even if you make a presentation with the same topic, it feels different to the person who listens to your opinion depending on your ability to deliver it. That's why I think communication skills are important. Second is problem solving ability. The reason why it is difficult to solve when a problem occurs is because various perspectives and creative thinking are needed. The only way to have creative thinking and various perspectives is to be born or have a lot of experience. That's why employers seem to need problem-solving skills. The next level is basically the necessary abilities.
+
+SQL, Microsoft Windows, Project management. 
+Writing, team work, Troubleshooting
 
 
 
