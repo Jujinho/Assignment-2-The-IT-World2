@@ -61,9 +61,14 @@ Ju Jinho
 Personal profile
 Student number is S3807487, S3807487@rmit.edu.vn , Korea, Male, I have lived in Korea for 20 years, but since I was young, I went abroad often. My hobbies are playing games and playing soccer. My favorite sports are soccer in summer and skiing in winter. The languages I can speak are Korean and English. I was in the top 0.05 percent of the game Battlegrounds. I belong to a diamond tier in a game called League of Legends.
 
-
 Ideal Job
+
 ![](/la.png)
+
+
+
+
+
 
 (https://boards.greenhouse.io/twitch/jobs/4727175002)
 The Senior Creative Strategist does the company's overall work, for example, choosing advertisement, the biggest source of revenue from Twitch. But the most attractive thing is that you can draw up a joint business plan on Twitch.
