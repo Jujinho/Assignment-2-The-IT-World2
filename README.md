@@ -40,7 +40,6 @@ After taking the test and getting results from 3 online test sites, these tests 
 
 ![](/hao1.jpg)
 ![](/hao2.jpg)
-![](/hao3.jpg)
 ![](/hao123123.jpg)
 
 
