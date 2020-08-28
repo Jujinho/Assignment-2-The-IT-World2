@@ -38,7 +38,7 @@ Personal Profile.
 After taking the test and getting results from 3 online test sites, these tests gave me a better understanding of who I am. The results from those tests help me to know more about how I view this life, how I handle problems and also clearly show me my working style as well as during the operation in a group. Furthermore,  the results from the Myers-Briggs test page caused me to change my behavior. Because those results offer advice and workarounds based on the mistakes that I am making. This will be very helpful for me when I am working in a group, it will help me to know what I am wrong and overcome so that I can adapt appropriately also leading to a good collaboration with all the group members and promote cooperation among members to come up with good ideas. Besides, I can take advantage of all my strengths such as supportives, enthusiasm, good practical skills and more than that to assist and push all my teammates mentality up and probably learn from all my team members to fix all my weaknesses as well.  
 
 
-
+![](/hao1.jpg)
 
 
 
