@@ -21,7 +21,7 @@ Ideal Job.
 
 Link: https://itviec.com/it-jobs/database-administrator-specialist-lhv-software-4349
 
-
+![](/hao3.jpg)
 
 First of all, this job appeals to me because I can work in a foreign environment and have many opportunities to learn and develop myself. Besides, the recruitment unit offers a lot of benefits for employees with a high salary and the 13th salary bonus for Tet. Finally, when I do this work here I have the opportunity to work with their partner, GoodData - a company from the United States which provides a massively scalable, secure & high-performance Insights Platform-as-a-Service for 70,000 businesses. 
 
