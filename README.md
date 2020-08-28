@@ -63,6 +63,7 @@ Student number is S3807487, S3807487@rmit.edu.vn , Korea, Male, I have lived in 
 
 
 Ideal Job
+![](/la.png)
 
 (https://boards.greenhouse.io/twitch/jobs/4727175002)
 The Senior Creative Strategist does the company's overall work, for example, choosing advertisement, the biggest source of revenue from Twitch. But the most attractive thing is that you can draw up a joint business plan on Twitch.
